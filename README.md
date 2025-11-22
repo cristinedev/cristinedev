@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Olá 👋, sou Caroline Cristine de Souza</h1>
 <h3 align="center"> Desenvolvedora </h3>
