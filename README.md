@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Olá 👋, sou Caroline Cristine de Souza</h1>
-<h3 align="center">Uma desenvolvedora frontend apaixonada da Índia</h3>
+<h3 align="center"> Desenvolvedora </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristinedev" alt="cristinedev" /></a> </p>
 
