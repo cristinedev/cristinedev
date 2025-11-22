@@ -10,6 +10,14 @@
 
 - 📄 Saiba mais sobre minhas experiências [www.linkedin.com/in/carolinecristinedesouza](www.linkedin.com/in/carolinecristinedesouza)
 
+## Sobre
+
+- Estudante de Análise e Desenvolvimento de Sistemas (conclusão em 2026)
+- Foco em desenvolvimento Backend com Java, Spring Boot, Python e SQL
+- Experiência com automação de processos utilizando UiPath
+- Conhecimentos em Lógica de Programação, Git, Power BI e Pacote Office
+- Interesse em Design Patterns, APIs, UX/UI e desenvolvimento de produtos digitais
+
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/carolinecristinedesouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/carolinecristinedesouza" height="30" width="40" /></a>
