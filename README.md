@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 <h1 align="center">Olá 👋, sou Caroline Cristine de Souza</h1>
 <h3 align="center">Uma desenvolvedora frontend apaixonada da Índia</h3>
 
